@@ -1,0 +1,87 @@
+// React.createElement :
+https://chatgpt.com/share/6843e977-078c-800b-9ce0-f46c86fad99f
+
+Difference between root.render(< App/ >) and root.render(React.createElement(App)) : 
+https://chatgpt.com/share/6843ea8b-1b40-800b-a335-91e40a4e64f9
+
+// ProblemStatementForReactAndVite :
+// https://chatgpt.com/share/68382910-d134-800b-a06d-3803feb94962
+
+// ViteProxy And CORS :
+// https://chatgpt.com/share/6839e49d-f774-800b-9765-710befe09c43
+
+// React Component LifeCycle And useEffect() :
+// https://chatgpt.com/share/683ac876-c158-800b-9dad-a650cabca97f
+
+//Vite env rules 
+
+
+Build in vite : 
+https://chatgpt.com/share/683c6f29-e8b8-800b-bf69-0e303d161f1b
+
+
+setCount(prev => prev + 1): 
+https://chatgpt.com/share/683c70b8-3460-800b-9317-4c81e60b7375
+
+
+
+
+react infinete rerendering due to useState () : 
+
+https://chatgpt.com/share/683dacc4-c3d8-800b-bc24-631ec2bbc965
+
+How react renders arrays directly ??  : 
+
+https://chatgpt.com/share/683db69a-6f10-800b-84b8-608c14c4f948
+
+
+whiule rendering list of elements we need a key prop : 
+https://chatgpt.com/share/683db8c3-2938-800b-aaa7-9b2e88bd14c3
+
+
+Custom-Hooks : jUST A FUNCTION ayooo : 
+https://chatgpt.com/share/683f25e8-be74-800b-9bc7-aa1b6a94672c
+
+
+
+Headers : 
+https://chatgpt.com/share/683f25be-f1ac-800b-b52f-89c41a375ed1
+
+
+handleChange : 
+https://chatgpt.com/share/6841ca4b-7d08-800b-95a6-20f571ad48f5
+
+LifeCycle of react components : 
+
+ - Mounting 
+ - updating
+ - unmounting
+ - Error
+
+ClassBasedComponent : 
+Yes it is used still , only for ErrorBoundary 
+
+Why use Link instead of anchor tags in React ??
+-->  https://chatgpt.com/share/684e9458-a8b0-800b-8eca-
+
+
+
+
+Lazy Loading : 
+Delay loading time until its needed 
+
+
+StateManagement (Context) - A API For managing States ;) 
+
+
+-- After sanwitching react passes all the children to props  of the contextProvider and the function returns a logic (<notificationContext.Provider value={...}>
+      {children}
+    </notificationContext.Provider>) , the logic is the main backend of the whole thing as it make the values available to all the component with the help of useContext() ???
+
+
+https://chatgpt.com/share/68504338-deb4-800b-82d8-513855db1a35
+
+Zustand : https://chatgpt.com/share/6852ee57-9ce0-800b-959b-df73e4754c46
+
+
+
